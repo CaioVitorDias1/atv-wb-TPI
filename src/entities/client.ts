@@ -26,6 +26,10 @@ export default class Client{
 
     }
 
+    public consume(){
+        
+    }
+
     public get getRgs(){
         return this.rgs
     }
